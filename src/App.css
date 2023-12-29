@@ -1,1 +1,14 @@
 /* add your styles here */
+h1{
+    text-align: center;
+}
+.imgContainer{
+    display: grid;
+    grid-template-columns: repeat(2,670px);
+    gap: 50px;
+    left: 30px;
+    position: relative;
+}
+img{
+    height: 550px;
+}
